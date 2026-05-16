@@ -36,23 +36,17 @@ Each notebook includes explanations, examples, and practice code designed to hel
 
 ---
 
-## How to Execute the Notebooks
-
-You can execute these notebooks using Google Colab without installing Python on your computer.
-
----
-
 # How to Execute the Notebooks
 
 You can execute these notebooks using Google Colab without installing Python on your computer.
 
 ---
 
-# Option 1: Open Notebook Directly from GitHub into Google Colab
+## Option 1: Open Notebook Directly from GitHub into Google Colab
 
 This is the easiest method.
 
-## Steps
+### Steps
 
 #### Step 1: Open the Repository in GitHub
 
@@ -64,7 +58,7 @@ https://github.com/deepakveeravalli/PythonLabs
 
 ---
 
-### Step 2: Open the Required Notebook
+#### Step 2: Open the Required Notebook
 
 Select the notebook you want to execute.
 
@@ -76,7 +70,7 @@ Example:
 
 ---
 
-### Step 3: Modify the URL
+#### Step 3: Modify the URL
 
 In the browser URL, replace:
 
@@ -106,7 +100,7 @@ https://githubtocolab.com/deepakveeravalli/PythonLabs/blob/main/notebooks/01_Pyt
 
 ---
 
-### Step 4: Open in Google Colab
+#### Step 4: Open in Google Colab
 
 Press Enter.
 
@@ -114,7 +108,7 @@ The notebook opens automatically in Google Colab.
 
 ---
 
-### Step 5: Execute the Notebook
+#### Step 5: Execute the Notebook
 
 Run notebook cells using:
 
@@ -130,13 +124,13 @@ Runtime → Run All
 
 ---
 
-# Option 2: Open GitHub Repository Directly from Google Colab
+## Option 2: Open GitHub Repository Directly from Google Colab
 
 This method allows you to browse the repository directly from Colab.
 
-## Steps
+### Steps
 
-### Step 1: Open Google Colab
+#### Step 1: Open Google Colab
 
 Open:
 
@@ -146,7 +140,7 @@ https://colab.research.google.com
 
 ---
 
-### Step 2: Open Notebook Dialog
+#### Step 2: Open Notebook Dialog
 
 Click:
 
@@ -156,7 +150,7 @@ File → Open notebook
 
 ---
 
-### Step 3: Select GitHub Tab
+#### Step 3: Select GitHub Tab
 
 Select the:
 
@@ -168,7 +162,7 @@ tab.
 
 ---
 
-### Step 4: Paste Repository URL
+#### Step 4: Paste Repository URL
 
 Paste the repository URL:
 
@@ -178,7 +172,7 @@ https://github.com/deepakveeravalli/PythonLabs
 
 ---
 
-### Step 5: Load Repository Notebooks
+#### Step 5: Load Repository Notebooks
 
 Press Enter.
 
@@ -186,7 +180,7 @@ Colab displays all notebooks available in the repository.
 
 ---
 
-### Step 6: Select a Notebook
+#### Step 6: Select a Notebook
 
 Choose the notebook you want to execute.
 
@@ -198,7 +192,7 @@ Example:
 
 ---
 
-### Step 7: Execute the Notebook
+#### Step 7: Execute the Notebook
 
 Run notebook cells using:
 
