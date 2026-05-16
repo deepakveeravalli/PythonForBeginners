@@ -7,8 +7,11 @@ A beginner friendly Python learning repository containing Jupyter notebooks for 
 # Repository Structure
 
 ```text
-PythonLabs/
+PythonForBeginners/
 │
+│── goodies/
+│   ├── Understanding Python Data Types
+│   └── ...
 ├── notebooks/
 │   ├── 01_Python_Introduction.ipynb
 │   ├── 02_Lists_and_Tuples.ipynb
@@ -19,7 +22,14 @@ PythonLabs/
 
 ---
 
-# How to Execute the Notebooks
+## goodies/
+
+This folder contains helpful screenshots, visual references, and quick comparison charts to make Python concepts easier to understand and remember.  
+These visuals are designed to support beginners with simple explanations and real world understanding of core Python topics.
+
+---
+
+## How to Execute the Notebooks
 
 You can execute these notebooks using Google Colab without installing Python on your computer.
 
