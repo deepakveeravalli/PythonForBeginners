@@ -1,4 +1,3 @@
-# Jupyter Notebooks
 # PythonLabs
 
 A beginner friendly Python learning repository containing Jupyter notebooks for practicing Python concepts step by step.
@@ -22,13 +21,13 @@ PythonLabs/
 
 # How to Execute the Notebooks
 
-There are 2 easy ways to run these notebooks.
+You can execute these notebooks using Google Colab without installing Python on your computer.
 
 ---
 
-# Option 1: Execute Using Google Colab (Recommended for Beginners)
+# Option 1A: Open Notebook Directly from GitHub into Google Colab
 
-Google Colab allows you to run Jupyter notebooks directly in the browser without installing Python.
+This is the easiest method.
 
 ## Steps
 
@@ -91,51 +90,47 @@ The notebook opens automatically in Google Colab.
 ---
 
 ### Step 5
-Click:
-
-```text
-Runtime → Run All
-```
-
-or execute cells one by one using:
+Execute notebook cells using:
 
 ```text
 Shift + Enter
 ```
 
+or run the complete notebook using:
+
+```text
+Runtime → Run All
+```
+
 ---
 
-# Option 2: Execute Using GitHub Codespaces
+# Option 1B: Open GitHub Repository from Google Colab
 
-GitHub Codespaces provides a cloud based VS Code environment directly inside GitHub.
+This method allows you to browse the repository directly from Colab.
 
 ## Steps
 
 ### Step 1
-Open the repository.
+Open Google Colab:
 
-```text
-https://github.com/deepakveeravalli/PythonLabs
-```
+https://colab.research.google.com
 
 ---
 
 ### Step 2
-Click the green:
+Click:
 
 ```text
-Code
+File → Open notebook
 ```
-
-button.
 
 ---
 
 ### Step 3
-Select:
+Select the:
 
 ```text
-Codespaces
+GitHub
 ```
 
 tab.
@@ -143,18 +138,23 @@ tab.
 ---
 
 ### Step 4
-Click:
+Paste the repository URL:
 
 ```text
-Create codespace on main
+https://github.com/deepakveeravalli/PythonLabs
 ```
-
-GitHub launches a cloud VS Code environment.
 
 ---
 
 ### Step 5
-Open any notebook from the `notebooks` folder.
+Press Enter.
+
+Colab displays all notebooks available in the repository.
+
+---
+
+### Step 6
+Select the notebook you want to execute.
 
 Example:
 
@@ -164,29 +164,17 @@ Example:
 
 ---
 
-### Step 6
-Run notebook cells using the Run button or:
+### Step 7
+Run notebook cells using:
 
 ```text
 Shift + Enter
 ```
 
----
+or run the full notebook using:
 
-# Requirements
-
-Most notebooks use standard Python libraries.
-
-If additional packages are required, install them using:
-
-```python
-pip install package_name
-```
-
-Example:
-
-```python
-pip install pandas
+```text
+Runtime → Run All
 ```
 
 ---
@@ -215,8 +203,8 @@ pip install pandas
 | Action | Shortcut |
 |---|---|
 | Run current cell | Shift + Enter |
-| Add new cell | + button |
 | Save notebook | Ctrl + S / Cmd + S |
+| Add new cell | + button |
 
 ---
 
