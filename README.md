@@ -42,16 +42,21 @@ You can execute these notebooks using Google Colab without installing Python on 
 
 ---
 
+# How to Execute the Notebooks
+
+You can execute these notebooks using Google Colab without installing Python on your computer.
+
+---
+
 # Option 1: Open Notebook Directly from GitHub into Google Colab
 
 This is the easiest method.
 
 ## Steps
 
-### Step 1
-Open the notebook in GitHub.
+### Step 1: Open the Repository in GitHub
 
-Example:
+Open the GitHub repository:
 
 ```text
 https://github.com/deepakveeravalli/PythonLabs
@@ -59,8 +64,9 @@ https://github.com/deepakveeravalli/PythonLabs
 
 ---
 
-### Step 2
-Open the required notebook.
+### Step 2: Open the Required Notebook
+
+Select the notebook you want to execute.
 
 Example:
 
@@ -70,7 +76,8 @@ Example:
 
 ---
 
-### Step 3
+### Step 3: Modify the URL
+
 In the browser URL, replace:
 
 ```text
@@ -99,15 +106,17 @@ https://githubtocolab.com/deepakveeravalli/PythonLabs/blob/main/notebooks/01_Pyt
 
 ---
 
-### Step 4
+### Step 4: Open in Google Colab
+
 Press Enter.
 
 The notebook opens automatically in Google Colab.
 
 ---
 
-### Step 5
-Execute notebook cells using:
+### Step 5: Execute the Notebook
+
+Run notebook cells using:
 
 ```text
 Shift + Enter
@@ -121,20 +130,24 @@ Runtime → Run All
 
 ---
 
-# Option 2: Open GitHub Repository from Google Colab
+# Option 2: Open GitHub Repository Directly from Google Colab
 
 This method allows you to browse the repository directly from Colab.
 
 ## Steps
 
-### Step 1
-Open Google Colab:
+### Step 1: Open Google Colab
 
+Open:
+
+```text
 https://colab.research.google.com
+```
 
 ---
 
-### Step 2
+### Step 2: Open Notebook Dialog
+
 Click:
 
 ```text
@@ -143,7 +156,8 @@ File → Open notebook
 
 ---
 
-### Step 3
+### Step 3: Select GitHub Tab
+
 Select the:
 
 ```text
@@ -154,7 +168,8 @@ tab.
 
 ---
 
-### Step 4
+### Step 4: Paste Repository URL
+
 Paste the repository URL:
 
 ```text
@@ -163,15 +178,17 @@ https://github.com/deepakveeravalli/PythonLabs
 
 ---
 
-### Step 5
+### Step 5: Load Repository Notebooks
+
 Press Enter.
 
 Colab displays all notebooks available in the repository.
 
 ---
 
-### Step 6
-Select the notebook you want to execute.
+### Step 6: Select a Notebook
+
+Choose the notebook you want to execute.
 
 Example:
 
@@ -181,14 +198,15 @@ Example:
 
 ---
 
-### Step 7
+### Step 7: Execute the Notebook
+
 Run notebook cells using:
 
 ```text
 Shift + Enter
 ```
 
-or run the full notebook using:
+or run the complete notebook using:
 
 ```text
 Runtime → Run All
