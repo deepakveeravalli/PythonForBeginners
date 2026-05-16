@@ -46,81 +46,65 @@ You can execute these notebooks using Google Colab without installing Python on 
 
 This is the easiest method.
 
-### Steps
+1. Open the GitHub repository
 
-#### Step 1: Open the Repository in GitHub
+   ```text
+   https://github.com/deepakveeravalli/PythonLabs
+   ```
 
-Open the GitHub repository:
+2. Open the required notebook
 
-```text
-https://github.com/deepakveeravalli/PythonLabs
-```
+   Example:
 
----
+   ```text
+   01_Python_Introduction.ipynb
+   ```
 
-#### Step 2: Open the Required Notebook
+3. Modify the browser URL
 
-Select the notebook you want to execute.
+   Replace:
 
-Example:
+   ```text
+   github.com
+   ```
 
-```text
-01_Python_Introduction.ipynb
-```
+   with:
 
----
+   ```text
+   githubtocolab.com
+   ```
 
-#### Step 3: Modify the URL
+   Example:
 
-In the browser URL, replace:
+   FROM:
 
-```text
-github.com
-```
+   ```text
+   https://github.com/deepakveeravalli/PythonLabs/blob/main/notebooks/01_Python_Introduction.ipynb
+   ```
 
-with:
+   TO:
 
-```text
-githubtocolab.com
-```
+   ```text
+   https://githubtocolab.com/deepakveeravalli/PythonLabs/blob/main/notebooks/01_Python_Introduction.ipynb
+   ```
 
-Example:
+4. Press Enter
 
-FROM:
+   The notebook opens automatically in Google Colab.
 
-```text
-https://github.com/deepakveeravalli/PythonLabs/blob/main/notebooks/01_Python_Introduction.ipynb
-```
+5. Execute the notebook
 
-TO:
+   Run notebook cells using:
 
-```text
-https://githubtocolab.com/deepakveeravalli/PythonLabs/blob/main/notebooks/01_Python_Introduction.ipynb
-```
+   ```text
+   Shift + Enter
+   ```
 
----
+   or run the complete notebook using:
 
-#### Step 4: Open in Google Colab
-
-Press Enter.
-
-The notebook opens automatically in Google Colab.
-
----
-
-#### Step 5: Execute the Notebook
-
-Run notebook cells using:
-
-```text
-Shift + Enter
-```
-
-or run the complete notebook using:
-
-```text
-Runtime → Run All
-```
+   ```text
+   Runtime → Run All
+   ```
 
 ---
 
@@ -128,83 +112,51 @@ Runtime → Run All
 
 This method allows you to browse the repository directly from Colab.
 
-### Steps
+1. Open Google Colab
 
-#### Step 1: Open Google Colab
+   ```text
+   https://colab.research.google.com
+   ```
 
-Open:
+2. Open notebook dialog
 
-```text
-https://colab.research.google.com
-```
+   ```text
+   File → Open notebook
+   ```
 
----
+3. Select the GitHub tab
 
-#### Step 2: Open Notebook Dialog
+4. Paste the repository URL
 
-Click:
+   ```text
+   https://github.com/deepakveeravalli/PythonLabs
+   ```
 
-```text
-File → Open notebook
-```
+5. Press Enter
 
----
+   Colab displays all notebooks available in the repository.
 
-#### Step 3: Select GitHub Tab
+6. Select the notebook you want to execute
 
-Select the:
+   Example:
 
-```text
-GitHub
-```
+   ```text
+   01_Python_Introduction.ipynb
+   ```
 
-tab.
+7. Execute the notebook
 
----
+   Run notebook cells using:
 
-#### Step 4: Paste Repository URL
+   ```text
+   Shift + Enter
+   ```
 
-Paste the repository URL:
+   or run the complete notebook using:
 
-```text
-https://github.com/deepakveeravalli/PythonLabs
-```
-
----
-
-#### Step 5: Load Repository Notebooks
-
-Press Enter.
-
-Colab displays all notebooks available in the repository.
-
----
-
-#### Step 6: Select a Notebook
-
-Choose the notebook you want to execute.
-
-Example:
-
-```text
-01_Python_Introduction.ipynb
-```
-
----
-
-#### Step 7: Execute the Notebook
-
-Run notebook cells using:
-
-```text
-Shift + Enter
-```
-
-or run the complete notebook using:
-
-```text
-Runtime → Run All
-```
+   ```text
+   Runtime → Run All
+   ```
 
 ---
 
