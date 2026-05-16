@@ -54,7 +54,7 @@ This is the easiest method.
 
 ## Steps
 
-### Step 1: Open the Repository in GitHub
+#### Step 1: Open the Repository in GitHub
 
 Open the GitHub repository:
 
