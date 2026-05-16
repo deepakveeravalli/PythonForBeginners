@@ -25,7 +25,7 @@ You can execute these notebooks using Google Colab without installing Python on 
 
 ---
 
-# Option 1A: Open Notebook Directly from GitHub into Google Colab
+# Option 1: Open Notebook Directly from GitHub into Google Colab
 
 This is the easiest method.
 
@@ -104,7 +104,7 @@ Runtime → Run All
 
 ---
 
-# Option 1B: Open GitHub Repository from Google Colab
+# Option 2: Open GitHub Repository from Google Colab
 
 This method allows you to browse the repository directly from Colab.
 
