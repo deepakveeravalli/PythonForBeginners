@@ -29,6 +29,13 @@ These visuals are designed to support beginners with simple explanations and rea
 
 ---
 
+## notebooks/
+
+This folder contains step by step Jupyter notebooks covering Python concepts from basics to intermediate topics.  
+Each notebook includes explanations, examples, and practice code designed to help beginners learn Python in a simple and hands on way.
+
+---
+
 ## How to Execute the Notebooks
 
 You can execute these notebooks using Google Colab without installing Python on your computer.
