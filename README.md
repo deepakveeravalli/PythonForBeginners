@@ -1,4 +1,4 @@
-# PythonLabs
+# PythonForBeginners
 
 A beginner friendly Python learning repository containing Jupyter notebooks for practicing Python concepts step by step.
 
